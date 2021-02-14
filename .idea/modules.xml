@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Mini_max_sum/.idea/Mini_max_sum.iml" filepath="$PROJECT_DIR$/../Mini_max_sum/.idea/Mini_max_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Plus_minus.iml" filepath="$PROJECT_DIR$/.idea/Plus_minus.iml" />
+    </modules>
+  </component>
+</project>
